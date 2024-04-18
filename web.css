@@ -1,0 +1,69 @@
+
+.table1{
+	padding: px;
+	margin: px;
+	width: 500px;
+	height: 200px;
+	background-color: transparent;
+    backdrop-filter:blur(20px);
+	border-radius: 20px;
+	font-size:30px ;
+     position:relative;
+    top: 10em;
+
+}
+body{
+	background-color: white;
+}
+.container1{
+	        margin: 20px auto;
+     background-image: url('Cosmetics2.avif');
+     background-size:cover;
+     height:36em;
+     width:80em;
+     background-repeat:no-repeat;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 50px;
+      
+      
+       
+}
+.btnlogin{
+	padding: 10px;
+      background-color: #333;
+      color: #fff;
+      border: 5px groove dimgray;
+      cursor: pointer;
+      width: 10em;
+       border-radius: 10px;
+       position:relative;
+       left: 17em;
+
+}
+.btnlogin:hover{
+	padding: 10px;
+      background-color: darkgray;
+      font-style: revert-layer;
+      color: #fff;
+      border: 5px double black;
+      cursor: pointer;
+      width: 10em;
+       border-radius: 10px;
+       position:botton;
+     
+
+}
+.txtname, .txtpass{
+	height:2em;
+      width: 15em;
+      font-size: 20px;
+      border:2px solid transparent;
+      border-radius: 30px;
+      position:relative;
+}
+label{
+    position:relative;
+    left: px;
+}
